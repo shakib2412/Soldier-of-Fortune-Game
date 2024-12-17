@@ -21,7 +21,7 @@ Installing
 A step-by-step series of examples that tell you how to get a development env running:
 
 Clone the repository:
-git clone https://github.com/yourusername/Soldier-of-Fortune-Game.git
+https://github.com/shakib2412/Soldier-of-Fortune-Game.git
 Navigate to the directory:
 cd Soldier-of-Fortune-Game
 Install dependencies:
